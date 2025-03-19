@@ -1,0 +1,27 @@
+# Web scraping
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+selenium>=4.3.0
+
+# Data processing
+pandas>=1.4.0
+numpy>=1.22.0
+
+# NLP and text processing
+nltk>=3.7
+spacy>=3.3.0
+
+# Document generation
+python-docx>=0.8.11
+pdfkit>=1.0.0
+
+# Database
+sqlalchemy>=1.4.0
+
+# API integration
+openai>=0.27.0
+anthropic>=0.5.0
+
+# Utilities
+pyyaml>=6.0
+tqdm>=4.64.0
